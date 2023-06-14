@@ -1,4 +1,5 @@
-//Car gear change advisory using inheritance
+//Car gear change advisory using abstraction
+
 abstract class Car
 {
  Car()
